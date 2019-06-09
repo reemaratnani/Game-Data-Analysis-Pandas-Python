@@ -3,7 +3,7 @@
 Analyzing the data for the recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-Your final report include each of the following:
+Final report include each of the following:
 Player Count
 
 Total Number of Players
@@ -83,11 +83,3 @@ Purchase Count
 Item Price
 Total Purchase Value
 
-
-
-As final considerations:
-
-You must use the Pandas Library and the Jupyter Notebook.
-You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-You must include a written description of three observable trends based on the data.
-See Example Solution for a reference on expected format.
