@@ -86,6 +86,8 @@ Total Purchase Value
 ## Key Findings
 
 Among total players the majority of the players are the male(84%) and the small portions of the players(14%) are female. Hence the game needs significant improvement in areas of female group requirements, because the average purchase price among females is higher than males.
+
 Age demographics Analysis clearly indicates that the most of the players (44.8%) are 20 to 24 years old and this group generates largest portion of total revenue by buying optional items, then 18.6% are 15-19 years old, followed by 13.4% are 25-29 years old. However highest average purchase price is among age group 35-39yrs. Hence targeting requirements of that group would result in higher profit.
+
 A close look of the item distribution of the game "heroes of pymoli" users play, it has been found that majority of players prefer "Oathbreaker, Last Hope of the Breaking Storm" item which has highest purchase count of 12 and highest revenue, followed by "Nirvana" and "Fiery Glass Crusader".
 
